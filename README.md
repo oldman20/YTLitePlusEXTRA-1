@@ -37,11 +37,9 @@ Trong thiết kế kỹ thuật, một hệ thống tốt không phải là hệ
 
 =============
 
-https://github.com/Mine-Fork-Project/YTLitePlusEXTRA
+https://github.com/oldman20/YouMod-2
 
-https://github.com/oldman20/KiraTuno2.0
-
-https://github.com/Mine-Fork-Project/YTPlusM
+https://github.com/Mine-Fork-Project/YTPlusM-3
 
 [YouTubeOLED](https://apps.apptesters.org)
 
