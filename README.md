@@ -21,7 +21,7 @@ Messenger 572.0.0
 Spotify 9.1.68
 
 =============
-<img width="1634" height="261" alt="YT Forks" src="https://github.com/user-attachments/assets/7ce5205f-1b4b-49b1-93c5-0d2ccd218394" />
+<img width="1634" height="261" alt="YT Forks" src="https://github.com/user-attachments/assets/222e84ce-ec92-4986-863f-e783816c953d" />
 
 Sự lựa chọn "Vàng" (YTLitePlusEXTRA): Đây là điểm rơi phong độ tốt nhất hiện nay. Nó kế thừa sự mượt mà của nhân YTLite nhưng bù đắp được sự thiếu hụt tính năng bằng các module "EXTRA". Trong R&D, đây là phương án tối ưu hóa quy trình thành công nhất.
 
