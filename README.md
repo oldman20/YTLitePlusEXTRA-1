@@ -21,7 +21,7 @@ Messenger 572.0.0
 Spotify 9.1.68
 
 =============
-<img width="1634" height="261" alt="YT Forks" src="https://github.com/user-attachments/assets/222e84ce-ec92-4986-863f-e783816c953d" />
+<img width="1637" height="296" alt="YT Forks" src="https://github.com/user-attachments/assets/c21cf201-b8af-47ad-a6c6-e1fa03349084" />
 
 Sự lựa chọn "Vàng" (YTLitePlusEXTRA): Đây là điểm rơi phong độ tốt nhất hiện nay. Nó kế thừa sự mượt mà của nhân YTLite nhưng bù đắp được sự thiếu hụt tính năng bằng các module "EXTRA". Trong R&D, đây là phương án tối ưu hóa quy trình thành công nhất.
 
@@ -36,6 +36,7 @@ Lời khuyên cuối: Nếu muốn sự an tâm lâu dài, hãy dùng YTLitePlus
 Trong thiết kế kỹ thuật, một hệ thống tốt không phải là hệ thống có thể thêm vào không giới hạn, mà là hệ thống không còn gì để loại bỏ. YTPlusM vi phạm nguyên tắc này. Hãy tiếp tục trung thành với YTLitePlusEXTRA.
 
 =============
+https://github.com/Mine-Fork-Project/YTLite
 
 https://github.com/oldman20/YouMod-2
 
