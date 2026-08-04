@@ -42,6 +42,8 @@ https://github.com/oldman20/YouMod-2
 
 https://github.com/Mine-Fork-Project/YTPlusM-3
 
+https://github.com/itzzace/YTKACE
+
 [YouTubeOLED](https://apps.apptesters.org)
 
 https://github.com/driftywinds
