@@ -18,7 +18,7 @@ Facebook 573.0.0
 
 Messenger 573.0.0
 
-Spotify 9.1.68
+Spotify 9.1.70
 
 =============
 <img width="1611" height="361" alt="YT Forks" src="https://github.com/user-attachments/assets/e1d07daa-bc6a-4e90-bcd6-33713d14603d" />
